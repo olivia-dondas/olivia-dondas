@@ -1,3 +1,6 @@
+![Cover](olivia-dondas/olivia-dondas/cover_github.png)
+
+
 # 💫 About Me:
 **Hello world!**<br><br>🔭 I’m currently working on **Pimp My GitHub** 🚀<br><br>🌱 I’m currently learning Python programming and building a strong foundation in web development.<br><br>👯 I’m looking to collaborate on web development projects to enhance my skills.<br><br>🤔 I’m looking for help with finding a web development apprenticeship to kickstart my career.<br><br>💬 Ask me about my journey in IT, my love for music, or my passion for discovering new restaurants 🍽️🎶.<br><br>	
 
@@ -24,5 +27,4 @@
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/oliviadondd) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
