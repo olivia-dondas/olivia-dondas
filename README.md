@@ -1,4 +1,4 @@
-![Cover](olivia-dondas/olivia-dondas/cover_github.png)
+![Cover](cover_github.jpg)
 
 
 # 💫 About Me:
