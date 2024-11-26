@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-**Hello world!**<br><br>🔭 I’m currently working on my **Portfolio** 🚀<br><br>🌱 I’m currently learning Python programming and building a strong foundation in web development.<br><br>👯 I’m looking to collaborate on web development projects to enhance my skills.<br><br>🤔 I’m looking for help with finding a web development apprenticeship to kickstart my career.<br><br>💬 Ask me about my journey in IT, my love for music, or my passion for discovering new restaurants 🍽️🎶.<br><br>	
+**Hello world!**<br><br>🔭 I’m currently working on **Python** 🚀<br><br>🌱 I’m currently learning Python programming and building a strong foundation in web development.<br><br>👯 I’m looking to collaborate on web development projects to enhance my skills.<br><br>🤔 I’m looking for help with finding a web development apprenticeship to kickstart my career.<br><br>💬 Ask me about my journey in IT, my love for music, or my passion for discovering new restaurants 🍽️🎶.<br><br>	
 
 
 ## 🌐 Socials:
