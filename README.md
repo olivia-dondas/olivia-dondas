@@ -1,4 +1,4 @@
-![Cover](cover_github.jpg)
+![Cover](banner.jpg)
 
 # 💫 About Me:
 <br>🔭 I’m currently working on **API integration and dynamic websites using JavaScript** 🚀<br><br>🌱 I’m building a strong foundation in web development with **HTML, CSS, JavaScript, and PHP**.<br><br>👯 I’m looking to collaborate on web development projects to sharpen my skills.<br><br>🤝 I’m actively seeking a web development apprenticeship to kickstart my career.<br><br>💬 Ask me about my journey in IT, my love for music, or my passion for discovering new restaurants 🍽️🎶.
