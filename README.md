@@ -3,9 +3,8 @@
 <h1 align="center">✨ Hi there, I'm Olive Dondas ✨</h1>
 <p align="center"><em>Creative dev · Code explorer · Music & food lover</em></p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Junior+Web+Developer;Fullstack+in+progress;Design+%26+Code+Enthusiast;Based+in+Marseille+🇫🇷" alt="Typing SVG" />
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F85D7F&center=true&width=500&lines=Fullstack+Developer+in+Progress;Creative+%2B+Tech+%2B+Emotion;From+Marseille+with+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
+
 
 ---
 
