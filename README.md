@@ -80,14 +80,19 @@ I'm passionate about learning, connecting with others, and challenging myself th
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Olivia-Dondas&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Olivia-Dondas&theme=tokyonight&hide_border=true" height="150"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olivia-Dondas&theme=tokyonight&layout=compact&hide_border=true" height="150"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Olivia-Dondas&theme=radical&no-frame=true&margin-w=5" height="150"/>
-</p>
+<div align="center">
 
+  <img src="https://github-readme-stats.vercel.app/api?username=Olivia-Dondas&show_icons=true&theme=calm_pink&hide_border=true&border_radius=10&count_private=true" width="48%" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Olivia-Dondas&theme=calm_pink&hide_border=true&border_radius=10" width="48%" />
+  
+  <br><br>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olivia-Dondas&layout=compact&theme=calm_pink&hide_border=true&border_radius=10" width="48%" />
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=Olivia-Dondas&theme=flat&no-frame=true&row=1&column=6&margin-w=10" width="100%" />
+
+</div>
 ---
 
 ## ✍️ Quote of the Day
