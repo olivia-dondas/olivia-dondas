@@ -82,25 +82,38 @@ I'm passionate about learning, connecting with others, and challenging myself th
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Olivia-Dondas&show_icons=true&theme=calm_pink&hide_border=true&border_radius=10&count_private=true" width="48%" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Olivia-Dondas&theme=calm_pink&hide_border=true&border_radius=10" width="48%" />
-  
-  <br><br>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olivia-Dondas&layout=compact&theme=calm_pink&hide_border=true&border_radius=10" width="48%" />
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=Olivia-Dondas&theme=flat&no-frame=true&row=1&column=6&margin-w=10" width="100%" />
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Olivia-Dondas&show_icons=true&theme=calm_pink&hide_border=true&border_radius=10&count_private=true" width="380"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Olivia-Dondas&theme=calm_pink&hide_border=true&border_radius=10" width="380"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olivia-Dondas&layout=compact&theme=calm_pink&hide_border=true&border_radius=10" width="500"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=Olivia-Dondas&theme=flat&no-frame=true&row=1&column=6&margin-w=10" width="600" />
+    </td>
+  </tr>
+</table>
 
 </div>
+
 ---
 
 ## ✍️ Quote of the Day
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
+<div align="center">
 
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=calm_pink" width="600"/>
+
+</div>
 ---
 
 ## ☕ Support My Journey
