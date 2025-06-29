@@ -3,10 +3,12 @@
 <h1 align="center">✨ Hi there, I'm Olive Dondas ✨</h1>
 <p align="center"><em>Creative dev · Code explorer · Music & food lover</em></p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F85D7F&center=true&width=500&lines=Fullstack+Developer+in+Progress;Creative+%2B+Tech+%2B+Emotion;From+Marseille+with+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F85D7F&center=true&vCenter=true&width=500&lines=Fullstack+Developer+in+Progress;Creative+%2B+Tech+%2B+Emotion;From+Marseille+with+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+</p>
 
 ---
+
 
 ## 👩🏾‍💻 About Me
 
@@ -111,9 +113,10 @@ I'm passionate about learning, connecting with others, and challenging myself th
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=calm_pink" width="600"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" width="600"/>
 
 </div>
+
 ---
 
 ## ☕ Support My Journey
